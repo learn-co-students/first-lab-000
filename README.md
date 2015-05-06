@@ -18,6 +18,8 @@ To complete this lab you will have to:
 3. Solve the Lab
 4. Push that commit to your fork.
 5. Open a Pull Request for your fork.
+6. 
+
 
 ## 1. Forking from Github
 
